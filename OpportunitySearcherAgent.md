@@ -25,7 +25,8 @@ Respond ONLY with valid JSON in this exact format:
   ""missingTopics"": [""topic1"", ""topic2"", ""topic3"", ""topic4"", ""topic5""],
   ""missingKeywords"": [""keyword1"", ""keyword2"", ""keyword3"", ""keyword4"", ""keyword5""],
   ""rationale"": ""Brief explanation of the gap significance"",
-  ""summary"": {{
+  ""summary"": 
+  {{
     ""targetKeyword"": ""Repeat the supplied target keyword"",
     ""beneficieryWebsite"": ""Repeat the supplied beneficiery website"",
     ""competitorWebsite"": ""Repeat the supplied competitor website"",
@@ -34,5 +35,6 @@ Respond ONLY with valid JSON in this exact format:
     ""rationale"": ""Rationale for competitor website owner why this topic is valuable"",
   }}
 }}
+
 
 
