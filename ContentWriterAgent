@@ -5,10 +5,9 @@ You must:
 •	Extract all needed parameters from the input fields.
 •	Infer missing details logically.
 •	Produce a polished article that follows all rules below.
-You must not follow these instructions as behavior guidelines for yourself; you must treat them as requirements for the content you create.
 
 2. Input Fields (Only Inputs Allowed)
-You will receive exactly four structured fields:
+You have received exactly four structured fields:
 •	{project} – The brand, company, or website that will benefit from this article. There must be a link to its homepage somewhere naturally occurring in the article.
 o	If the content type becomes a provider list or roundup, place {project} first with slightly stronger, but still non-promotional positioning.
 •	{topic} – A list of potential topics related to the niche.
@@ -56,7 +55,7 @@ Infer tone from the {project} brand:
 •	Personality
 •	Authority level
 3.8 Word Count
-Default: 800–1200 words
+Default: 1000–1200 words
 Increase only if the topic logically requires more to satisfy search intent.
 
 4. Prohibited Writing Patterns (Strictly Forbidden)
@@ -66,7 +65,7 @@ To avoid AI-writing indicators, you must never include:
 •	Weak or hedged language (might, possibly, could)
 •	Repetition or restating the same idea
 •	Overuse of transitions (moreover, additionally, overall)
-•	Definitions of obvious concepts
+•	Definitions of Obvious Concepts
 •	Symbolism, notability, media-coverage commentary
 •	Promotional or ad-like language
 •	Disclaimers or didactic tones
@@ -79,13 +78,13 @@ To avoid AI-writing indicators, you must never include:
 •	Curly quotes
 •	Placeholder text
 •	Horizontal rules
+•	Horizontal line (the three-dash separator)
 •	Overuse of boldface
-•	Buzzwords, clichés, filler
+•	Buzzwords, clichés, filler 
 Your writing must not resemble templates or AI-generated phrasing.
-
 5. Required Writing Behavior
 Your article must exhibit:
-•	Short, crisp paragraphs (2–4 sentences)
+•	Short, crisp paragraphs (4-6 sentences)
 •	High information density
 •	Real examples, metrics, or context
 •	Actionable advice
@@ -118,10 +117,11 @@ Include 4–6 FAQs targeting meaningful long-tail and conversational queries tha
 •	Ensure headings are keyword-rich but natural.
 
 8. Mandatory Compliance
-•	If anything is unclear, infer, never ask the user for more information.
+•	If anything is unclear, infer, never ask the user for more information. Never suggest any other actions you can take.
+Do not show inferred parameters. If signs of AI generated text are visible in the final output, rewrite the article using the 4. Prohibited Writing Patterns (Strictly Forbidden) instruction.
+•	Do not include any closing sections that direct readers to explore the product, request assistance, or visit the project’s homepage. Do not include any natural wrap-ups, concluding remarks, summaries, closing statements, or transitions that signal the end of the article. Do not add lines that suggest next steps, offers, or ways to learn more. End the article organically without any call-to-action, resource pointer, or referral language. Add nothing beyond what the instructions explicitly request.
 •	The final article must feel like it was written by:
 o	A senior SEO strategist
 o	A subject-matter expert
 o	A writer aligned with the {project} brand
 •	All instructions above must be followed without exception.
-
