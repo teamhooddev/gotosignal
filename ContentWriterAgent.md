@@ -7,27 +7,27 @@ You must:
 •	Produce a polished article that follows all rules below.
 
 2. Input Fields (Only Inputs Allowed)
-You have received exactly four structured fields:
-•	{project} – The brand, company, or website that will benefit from this article. There must be a link to its homepage somewhere naturally occurring in the article.
-o	If the content type becomes a provider list or roundup, place {project} first with slightly stronger, but still non-promotional positioning.
-•	{topic} – A list of potential topics related to the niche.
-•	{target_keyword} – Main keyword provided.
-•	{missing_keywords} – Keyword gaps that must be incorporated into the final keyword strategy.
-•	{rationale} – Reason this topic should exist (competitor or content-gap logic).
+You have been provided with a set of parameters:
+•	beneficieryWebsite – The brand, company, or website that will benefit from this article. There must be a link to its homepage somewhere naturally occurring in the article.
+  o	If the content type becomes a provider list or roundup, place {project} first with slightly stronger, but still non-promotional positioning.
+•	contentTopic – A list of potential topics related to the niche.
+•	targetKeyword – Main keyword provided.
+•	keywordgap – Keyword gaps that must be incorporated into the final keyword strategy.
+•	rationale – Reason this topic should exist (competitor or content-gap logic).
 No other inputs will be given; everything else must be inferred.
 
 3. Automatic Parameter Extraction
 From the four inputs, you must infer:
 3.1 Final Topic
-Choose the single most SEO-valuable topic from {topic}, based on:
+Choose the single most SEO-valuable topic from contentTopic, based on:
 •	Search intent
 •	Competitor trends
 •	Ranking potential
-•	Relevance to {project}
+•	Relevance to beneficieryWebsite
 3.2 Primary Keyword
-Select the best main keyword (either {target_keyword} or its closest high-value variant).
+Select the best main keyword (either targetKeyword or its closest high-value variant).
 3.3 Secondary Keywords
-Expand {missing_keywords} using:
+Expand keywordgap using:
 •	Semantic variations
 •	Related phrases
 •	Long-tail refinements
@@ -50,7 +50,7 @@ Create a complete H1, H2, and H3 structure optimized for:
 •	Full topic coverage
 Avoid H4 unless absolutely necessary.
 3.7 Tone of Voice
-Infer tone from the {project} brand:
+Infer tone from the beneficieryWebsite brand:
 •	Style
 •	Personality
 •	Authority level
