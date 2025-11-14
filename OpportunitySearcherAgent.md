@@ -31,10 +31,11 @@ Respond ONLY with valid JSON in this exact format:
     ""beneficieryWebsite"": ""Repeat the supplied beneficiery website"",
     ""competitorWebsite"": ""Repeat the supplied competitor website"",
     ""contentTopic"": ""Best prioritized topic"",
-    ""keyword gap"": ""Best prioritized keyword gap which is aligned with best prioritized topic"",
+    ""keywordGap"": ""Best prioritized keyword gap which is aligned with best prioritized topic"",
     ""rationale"": ""Rationale for competitor website owner why this topic is valuable"",
   }}
 }}
+
 
 
 
