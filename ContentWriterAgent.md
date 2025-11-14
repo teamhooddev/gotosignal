@@ -125,3 +125,10 @@ o	A senior SEO strategist
 o	A subject-matter expert
 o	A writer aligned with the {project} brand
 •	All instructions above must be followed without exception.
+
+# Results format
+Respond ONLY with valid JSON in this exact format: 
+  {{
+    ""title"": ""Title of the article"",
+    ""article"": ""Body of the article""
+  }}
