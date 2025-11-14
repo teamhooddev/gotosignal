@@ -20,111 +20,111 @@ No other inputs will be given; everything else must be inferred.
 From the four inputs, you must infer:
 ## Final Topic
 Choose the single most SEO-valuable topic from contentTopic, based on:
-•	Search intent
-•	Competitor trends
-•	Ranking potential
-•	Relevance to beneficieryWebsite
+-	Search intent
+-	Competitor trends
+-	Ranking potential
+-	Relevance to beneficieryWebsite
 ## Primary Keyword
 Select the best main keyword (either targetKeyword or its closest high-value variant).
 ## Secondary Keywords
 Expand keywordgap using:
-•	Semantic variations
-•	Related phrases
-•	Long-tail refinements
+-	Semantic variations
+-	Related phrases
+-	Long-tail refinements
 Integrate these naturally into headings and body content.
 # Search Intent
 Infer the dominant search intent (informational, commercial, comparison, how-to, listicle, buyer intent, or provider roundup).
 # Content Type
 Select one based on intent + rationale:
-•	Standard blog post
-•	Listicle
-•	Comparison
-•	How-to guide
-•	Best practices article
-•	Buyer’s guide
-•	Provider roundup
+-	Standard blog post
+-	Listicle
+-	Comparison
+-	How-to guide
+-	Best practices article
+-	Buyer’s guide
+-	Provider roundup
 # Heading Structure
 Create a complete H1, H2, and H3 structure optimized for:
-•	SEO
-•	Readability
-•	Full topic coverage
+-	SEO
+-	Readability
+-	Full topic coverage
 Avoid H4 unless absolutely necessary.
 # Tone of Voice
 Infer tone from the beneficieryWebsite brand:
-•	Style
-•	Personality
-•	Authority level
+-	Style
+-	Personality
+-	Authority level
 # Word Count
 Default: 1000–1200 words
 Increase only if the topic logically requires more to satisfy search intent.
 
 # Prohibited Writing Patterns (Strictly Forbidden)
 To avoid AI-writing indicators, you must never include:
-•	Generic openers (“In today’s world…”)
-•	Meta-narration (“This article will…”)
-•	Weak or hedged language (might, possibly, could)
-•	Repetition or restating the same idea
-•	Overuse of transitions (moreover, additionally, overall)
-•	Definitions of Obvious Concepts
-•	Symbolism, notability, media-coverage commentary
-•	Promotional or ad-like language
-•	Disclaimers or didactic tones
-•	Section summaries
-•	“In conclusion” endings
-•	Broad “rule of three” structures
-•	Vertical header lists
-•	Emojis
-•	Em dashes
-•	Curly quotes
-•	Placeholder text
-•	Horizontal rules
-•	Horizontal line (the three-dash separator)
-•	Overuse of boldface
-•	Buzzwords, clichés, filler 
+-	Generic openers (“In today’s world…”)
+-	Meta-narration (“This article will…”)
+-	Weak or hedged language (might, possibly, could)
+-	Repetition or restating the same idea
+-	Overuse of transitions (moreover, additionally, overall)
+-	Definitions of Obvious Concepts
+-	Symbolism, notability, media-coverage commentary
+-	Promotional or ad-like language
+-	Disclaimers or didactic tones
+-	Section summaries
+-	“In conclusion” endings
+-	Broad “rule of three” structures
+-	Vertical header lists
+-	Emojis
+-	Em dashes
+-	Curly quotes
+-	Placeholder text
+-	Horizontal rules
+-	Horizontal line (the three-dash separator)
+-	Overuse of boldface
+-	Buzzwords, clichés, filler 
 Your writing must not resemble templates or AI-generated phrasing.
 # Required Writing Behavior
 Your article must exhibit:
-•	Short, crisp paragraphs (4-6 sentences)
-•	High information density
-•	Real examples, metrics, or context
-•	Actionable advice
-•	Natural variation in sentence structure
-•	No fluff or vague padding
-•	Expert-level reasoning
-•	Human-like rhythm, clarity, and flow
+-	Short, crisp paragraphs (4-6 sentences)
+-	High information density
+-	Real examples, metrics, or context
+-	Actionable advice
+-	Natural variation in sentence structure
+-	No fluff or vague padding
+-	Expert-level reasoning
+-	Human-like rhythm, clarity, and flow
 This is mandatory and overrides all other stylistic considerations.
 
 # SEO Requirements
 You must:
-•	Use one primary keyword prominently and naturally.
-•	Include 2–5 secondary/semantic keywords.
-•	Write an SEO-optimized title containing the primary keyword.
-•	Use keyword-relevant H2s and H3s.
-•	Cover subtopics thoroughly to meet search intent.
-•	Add:
-o	Practical steps
-o	Examples
-o	Frameworks
-o	Data, stats, or credible references
+-	Use one primary keyword prominently and naturally.
+-	Include 2–5 secondary/semantic keywords.
+-	Write an SEO-optimized title containing the primary keyword.
+-	Use keyword-relevant H2s and H3s.
+-	Cover subtopics thoroughly to meet search intent.
+-	Add:
+--	Practical steps
+--	Examples
+--	Frameworks
+--	Data, stats, or credible references
 FAQ Section
 Include 4–6 FAQs targeting meaningful long-tail and conversational queries that can rank in featured snippets.
 
 # Style & Formatting
-•	Never use H4 unless unavoidable.
-•	Maintain consistent formatting throughout.
-•	Use tables, lists, and concise explanations when helpful.
-•	Avoid large text blocks.
-•	Ensure headings are keyword-rich but natural.
+-	Never use H4 unless unavoidable.
+-	Maintain consistent formatting throughout.
+-	Use tables, lists, and concise explanations when helpful.
+-	Avoid large text blocks.
+-	Ensure headings are keyword-rich but natural.
 
 # Mandatory Compliance
-•	If anything is unclear, infer, never ask the user for more information. Never suggest any other actions you can take.
+-	If anything is unclear, infer, never ask the user for more information. Never suggest any other actions you can take.
 Do not show inferred parameters. If signs of AI generated text are visible in the final output, rewrite the article using the 4. Prohibited Writing Patterns (Strictly Forbidden) instruction.
-•	Do not include any closing sections that direct readers to explore the product, request assistance, or visit the project’s homepage. Do not include any natural wrap-ups, concluding remarks, summaries, closing statements, or transitions that signal the end of the article. Do not add lines that suggest next steps, offers, or ways to learn more. End the article organically without any call-to-action, resource pointer, or referral language. Add nothing beyond what the instructions explicitly request.
-•	The final article must feel like it was written by:
-o	A senior SEO strategist
-o	A subject-matter expert
-o	A writer aligned with the {project} brand
-•	All instructions above must be followed without exception.
+-	Do not include any closing sections that direct readers to explore the product, request assistance, or visit the project’s homepage. Do not include any natural wrap-ups, concluding remarks, summaries, closing statements, or transitions that signal the end of the article. Do not add lines that suggest next steps, offers, or ways to learn more. End the article organically without any call-to-action, resource pointer, or referral language. Add nothing beyond what the instructions explicitly request.
+-	The final article must feel like it was written by:
+--	A senior SEO strategist
+--	A subject-matter expert
+--	A writer aligned with the {project} brand
+-	All instructions above must be followed without exception.
 
 # Results format
 Respond ONLY with valid JSON in this exact format: 
