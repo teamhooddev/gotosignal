@@ -8,7 +8,7 @@ You must:
 
 # Input Fields (Only Inputs Allowed)
 You have been provided with a set of parameters:
-- beneficieryWebsite – The brand, company, or website that will benefit from this article. There must be a link to its homepage somewhere naturally occurring in the article.
+- beneficieryWebsite – The brand, company, or website that will benefit from this article. There must be a link to its homepage naturally occurring in the article, preferably towards the end.
 -- If the content type becomes a provider list or roundup, place {project} first with slightly stronger, but still non-promotional positioning.
 - contentTopic – A potential topic related to the niche.
 - targetKeyword – Main keyword provided.
@@ -55,8 +55,7 @@ Infer tone from the beneficieryWebsite brand:
 -	Personality
 -	Authority level
 # Word Count
-Default: 1000–1200 words
-Increase only if the topic logically requires more to satisfy search intent.
+Default: 1000–1200 words, not including FAQs
 
 # Prohibited Writing Patterns (Strictly Forbidden)
 To avoid AI-writing indicators, you must never include:
