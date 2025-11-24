@@ -55,7 +55,7 @@ Infer tone from the beneficieryWebsite brand:
 -	Personality
 -	Authority level
 # Word Count
-The article must contain 1000–1200 words, not including FAQs.
+Under no circumstances can the article be less than 800 words and exceed 1200 words, not including FAQs.
 
 # Prohibited Writing Patterns (Strictly Forbidden)
 To avoid AI-writing indicators, you must never include:
@@ -105,7 +105,7 @@ You must:
 --	Practical steps
 --	Examples
 --	Frameworks
---	Data, stats, and credible references
+--	Data or statistics
 FAQ Section
 Include 4–6 FAQs targeting meaningful long-tail and conversational queries that can rank in featured snippets.
 
@@ -115,15 +115,17 @@ Include 4–6 FAQs targeting meaningful long-tail and conversational queries tha
 -	Use tables, lists, and concise explanations when helpful.
 -	Avoid large text blocks.
 -	Ensure headings are keyword-rich but natural.
+-	Ensure that headings, pararagraphs, tables, etc. are Word-friendly.
 
 # Mandatory Compliance
 -	If anything is unclear, infer, never ask the user for more information. Never suggest any other actions you can take.
 Do not show inferred parameters. If signs of AI generated text are visible in the final output, rewrite the article using the 4. Prohibited Writing Patterns (Strictly Forbidden) instruction.
 -	Do not include any closing sections that direct readers to explore the product, request assistance, or visit the project’s homepage. Do not include any natural wrap-ups, concluding remarks, summaries, closing statements, or transitions that signal the end of the article. Do not add lines that suggest next steps, offers, or ways to learn more. End the article organically without any call-to-action, resource pointer, or referral language. Add nothing beyond what the instructions explicitly request.
+-	If data, practical example, or statistics is provided in the artcile, it must include a link to its source. 
 -	The final article must feel like it was written by:
 --	A senior SEO strategist
 --	A subject-matter expert
---	A writer aligned with the {project} brand
+--	A writer aligned with the beneficieryWebsite brand
 -	All instructions above must be followed without exception.
 
 # Results format
