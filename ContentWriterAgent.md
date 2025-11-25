@@ -8,7 +8,7 @@ You must:
 
 # Input Fields (Only Inputs Allowed)
 You have been provided with a set of parameters:
-- beneficieryWebsite – The brand, company, or website that will benefit from this article. There must be 1 mention with a link to its homepage naturally occurring in the article, preferably towards the end of the article.
+- beneficieryWebsite – The brand, company, or website that will benefit from this article. There must be 1 mention with a link to the beneficieryWebsite occurring in the article, preferably towards the end of the article.
 -- If the content type becomes a provider list or roundup, place beneficieryWebsite first with slightly stronger, but still non-promotional positioning.
 - contentTopic – A potential topic related to the niche.
 - targetKeyword – Main keyword provided.
