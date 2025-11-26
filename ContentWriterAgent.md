@@ -100,7 +100,7 @@ You must:
 -	Use one primary keyword prominently and naturally.
 -	Include 2–5 secondary/semantic keywords.
 -	Write an SEO-optimized title containing the primary keyword.
--	Use keyword-relevant H2s and H3s.
+-	Use keyword-relevant headings of 2nd and 3rd level.
 -	Cover subtopics thoroughly to meet search intent.
 -	Add:
 --	Practical steps
