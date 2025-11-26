@@ -45,6 +45,7 @@ Select one based on intent + rationale:
 -	Provider roundup
 # Heading Structure
 Create a complete heading structure optimized for:
+- Ensure title of content piece is included as top level heading
 -	SEO
 -	Readability
 -	Full topic coverage
