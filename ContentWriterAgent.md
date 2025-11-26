@@ -44,11 +44,11 @@ Select one based on intent + rationale:
 -	Buyer’s guide
 -	Provider roundup
 # Heading Structure
-Create a complete H1, H2, and H3 structure optimized for:
+Create a complete heading structure optimized for:
 -	SEO
 -	Readability
 -	Full topic coverage
-Avoid H4 unless absolutely necessary.
+-	Use maximum 3 levels of heading hierarchy unless absolutely necessary to use 4th level
 # Tone of Voice
 Infer tone from the beneficieryWebsite brand:
 -	Style
@@ -111,8 +111,9 @@ Include 4–6 FAQs targeting meaningful long-tail and conversational queries tha
 
 # Style & Formatting
 - Use markdown and it's structure to express all necessary formatting options.
--	Never use H4 unless unavoidable.
 -	Maintain consistent formatting throughout.
+-	Ensure you use numbering and bullets in a user beneficial manner.
+-	Avoid continuing numbering in different paragraphs unless those are for headings.
 -	Use tables, lists, and concise explanations when helpful.
 -	Avoid large text blocks.
 -	Ensure headings are keyword-rich but natural.
