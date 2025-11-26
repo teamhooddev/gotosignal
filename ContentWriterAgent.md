@@ -8,7 +8,7 @@ You must:
 
 # Input Fields (Only Inputs Allowed)
 You have been provided with a set of parameters:
-- beneficieryWebsite – The brand, company, or website that will benefit from this article. There must be 1 mention with a link to the beneficieryWebsite occurring in the article, preferably towards the end of the article.
+- beneficieryWebsite – website that will benefit from this article. There must relevant anchor with a link to the beneficieryWebsite occurring in the article, preferably towards the end of the article.
 -- If the content type becomes a provider list or roundup, place beneficieryWebsite first with slightly stronger, but still non-promotional positioning.
 - contentTopic – A potential topic related to the niche.
 - targetKeyword – Main keyword provided.
@@ -91,6 +91,7 @@ Your article must exhibit:
 -	Actionable advice
 -	Natural variation in sentence structure
 -	No fluff or vague padding
+-	Write in paragraphs rather than bullet points
 -	Expert-level reasoning
 -	Human-like rhythm, clarity, and flow
 This is mandatory and overrides all other stylistic considerations.
